@@ -1,1 +1,3 @@
-dswd
+import math
+
+print ('Windows')

@@ -1,1 +1,3 @@
-hola mundo
+import math
+
+print ('Ubuntuuuu')
